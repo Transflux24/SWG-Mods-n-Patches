@@ -1,0 +1,8 @@
+Before continuing it is best practice to create a new Separator (or more if you want) to hold your added mods. When creating these separators, make sure to add "[DoNotDelete]" (without the ", so just [DoNotDelete])to the front of the separators name so Wabbajack wont delete them when the list updates (unless you dont care about that).
+
+Also add "[DoNotDelete]" (without the ", so just [DoNotDelete]) to the front all your added mods names if you don't want Wabbajack to remove them when updating.
+
+To install the mods, each one will be included in a zip archive. Simply install them manually through Mod Organizer 2 (no need to unzip them) by pressing the top left button just under File, and selecting the mods you want to install.
+
+Load order will be explained for each mod in an included readme in the mods folder. After installing the mod, double click it in Mod Organizer 2 to learn where you should place this in the load order relative to SWG and other mods patched/made by me.
+
